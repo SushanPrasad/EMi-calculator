@@ -14,6 +14,7 @@
     "firebase-tools": "^13.0.0",
     "vue": "^3.3.10"
   },
+  "homepage": "https://SushanPrasad.github.io/github.com/SushanPrasad/EMICALC.git",
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/eslint-parser": "^7.12.16",
