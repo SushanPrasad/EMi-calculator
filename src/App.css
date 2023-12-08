@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: auto;
+}
+.title{
+    font-family: Arial, sans-serif;
+    background-image: url('https://ik.imagekit.io/amazonshop/wallpaperflare.com_wallpaper__4__dowjjZy2c.jpg?updatedAt=1685950589084');  
+    margin: 0;
+    padding: 0;
+    font-size: medium;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+  
+    
+
+}
+
+.title > p {
+    font-size: 12px; ;
+    color: rgba(209, 205, 205, 0.687);
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.title > h1{
+    color: rgba(255, 255, 255, 0.788);
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+.title >h1:hover{
+    color: white;
+}
+.title >p:hover{
+    color: white;
+}
+
+
+
+
+
+
+.emi{
+    width: 400px;
+    padding: 25px;
+    margin: auto;
+    border: 1px solid #9d9999;
+    border-radius: 10px;
+    box-shadow: 5px 5px 19px rgba(70, 70, 70, 0.438);
+    
+    margin: auto;
+
+background-image: url('https://ik.imagekit.io/amazonshop/elegant-white-background-with-shiny-lines_1017-17580_1YzUURL-i.avif?updatedAt=1701945171901');
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.emi  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+
+  .emi input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    box-sizing: border-box;
+  }
+
+  .emi button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: bolder;
+  }
+
+  .emi button:hover {
+    background-color: #0056b3;
+  }
+ 
+   .container{
+    background-image: url('https://ik.imagekit.io/amazonshop/wallpaperflare.com_wallpaper__4__dowjjZy2c.jpg?updatedAt=1685950589084');  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
